@@ -1,0 +1,21 @@
+html css js
+react
+
+
+packages:-
+
+lodash
+moments package
+nodemailer
+joi validation
+media query
+promises in javascript
+axios
+middle wares
+difference between console and loggers
+
+body parser
+cookie parser
+passport-npm package
+
+core modules of nodejs
